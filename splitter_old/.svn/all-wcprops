@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/110/seti_boinc/splitter_old
+END
+dotransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/110/seti_boinc/splitter_old/dotransform.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/110/seti_boinc/splitter_old/Makefile.in
+END
+encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/splitter_old/encode.h
+END
+splitparms.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/seti_boinc/splitter_old/splitparms.h
+END
+writeheader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/110/seti_boinc/splitter_old/writeheader.cpp
+END
+hr_min_sec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/110/seti_boinc/splitter_old/hr_min_sec.cpp
+END
+polyphase.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/110/seti_boinc/splitter_old/polyphase.h
+END
+splitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/splitter_old/splitter.h
+END
+fftw.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/splitter_old/fftw.h
+END
+wufiles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/110/seti_boinc/splitter_old/wufiles.cpp
+END
+coordcvt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/seti_boinc/splitter_old/coordcvt.cpp
+END
+squarewave.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/110/seti_boinc/splitter_old/squarewave.cpp
+END
+readheader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/110/seti_boinc/splitter_old/readheader.cpp
+END
+splittypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/seti_boinc/splitter_old/splittypes.h
+END
+readtape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/seti_boinc/splitter_old/readtape.cpp
+END
+message.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/splitter_old/message.h
+END
+validrun.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/splitter_old/validrun.h
+END
+libfftw.a
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/splitter_old/libfftw.a
+END
+encode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/splitter_old/encode.cpp
+END
+angdist.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/splitter_old/angdist.h
+END
+db_fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/splitter_old/db_fns.h
+END
+four1.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/110/seti_boinc/splitter_old/four1.h
+END
+makebufs.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/splitter_old/makebufs.h
+END
+dotransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/110/seti_boinc/splitter_old/dotransform.h
+END
+polyphase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/110/seti_boinc/splitter_old/polyphase.cpp
+END
+splitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/seti_boinc/splitter_old/splitter.cpp
+END
+writeheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/110/seti_boinc/splitter_old/writeheader.h
+END
+randomdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/110/seti_boinc/splitter_old/randomdata.cpp
+END
+hr_min_sec.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/seti_boinc/splitter_old/hr_min_sec.h
+END
+uttolst.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/splitter_old/uttolst.h
+END
+wufiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/splitter_old/wufiles.h
+END
+validrun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/seti_boinc/splitter_old/validrun.cpp
+END
+message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/110/seti_boinc/splitter_old/message.cpp
+END
+coordcvt.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/splitter_old/coordcvt.h
+END
+readheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/seti_boinc/splitter_old/readheader.h
+END
+angdist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/110/seti_boinc/splitter_old/angdist.cpp
+END
+readtape.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/splitter_old/readtape.h
+END
+db_fns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/splitter_old/db_fns.cpp
+END
+four1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/splitter_old/four1.cpp
+END
+makebufs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/seti_boinc/splitter_old/makebufs.cpp
+END

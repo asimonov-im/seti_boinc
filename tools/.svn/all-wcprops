@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1145/seti_boinc/tools
+END
+fakedata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/tools/fakedata.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1145/seti_boinc/tools/Makefile.am
+END
+workunit_resample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/928/seti_boinc/tools/workunit_resample.cpp
+END
+workunit_to_ascii.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1145/seti_boinc/tools/workunit_to_ascii.cpp
+END

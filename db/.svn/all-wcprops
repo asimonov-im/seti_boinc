@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/1273/seti_boinc/db
+END
+sqlblob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/110/seti_boinc/db/sqlblob.cpp
+END
+sqlapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/110/seti_boinc/db/sqlapi.h
+END
+row_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/989/seti_boinc/db/row_cache.h
+END
+db_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/816/seti_boinc/db/db_table.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/110/seti_boinc/db/Makefile.in
+END
+sqlint8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/110/seti_boinc/db/sqlint8.cpp
+END
+xml_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/282/seti_boinc/db/xml_util.h
+END
+sqlblob.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/458/seti_boinc/db/sqlblob.h
+END
+app_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1150/seti_boinc/db/app_config.cpp
+END
+sqldefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/215/seti_boinc/db/sqldefs.h
+END
+sqlint8.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/110/seti_boinc/db/sqlint8.h
+END
+track_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/110/seti_boinc/db/track_mem.h
+END
+app_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/847/seti_boinc/db/app_config.h
+END
+schema_to_class.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/db/schema_to_class.in
+END
+schema_master.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1195/seti_boinc/db/schema_master.cpp
+END
+sqlifx.ec
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/416/seti_boinc/db/sqlifx.ec
+END
+schema_master.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1273/seti_boinc/db/schema_master.h
+END
+find_references.awk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/db/find_references.awk
+END
+schema_to_class.awk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/414/seti_boinc/db/schema_to_class.awk
+END
+migrate_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/db/migrate_test.cpp
+END
+sqlrow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/414/seti_boinc/db/sqlrow.cpp
+END
+schema_master.sql
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1273/seti_boinc/db/schema_master.sql
+END
+sqlrow.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/416/seti_boinc/db/sqlrow.h
+END
+xml_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/563/seti_boinc/db/xml_util.cpp
+END

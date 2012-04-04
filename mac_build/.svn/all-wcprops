@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/110/seti_boinc/mac_build
+END
+HowToBuildSETI_XCode.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/110/seti_boinc/mac_build/HowToBuildSETI_XCode.rtf
+END
+config-i386.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/mac_build/config-i386.h
+END
+makeseticonfigs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/110/seti_boinc/mac_build/makeseticonfigs.sh
+END
+sah_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/mac_build/sah_config.h
+END
+config-ppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/mac_build/config-ppc.h
+END
+buildfftw-3.1.1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/110/seti_boinc/mac_build/buildfftw-3.1.1.sh
+END

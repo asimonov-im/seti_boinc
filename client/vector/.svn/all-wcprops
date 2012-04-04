@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/573/seti_boinc/client/vector
+END
+analyzeFuncs_sse2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/563/seti_boinc/client/vector/analyzeFuncs_sse2.cpp
+END
+x86_float4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/110/seti_boinc/client/vector/x86_float4.cpp
+END
+analyzeFuncs_sse3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/563/seti_boinc/client/vector/analyzeFuncs_sse3.cpp
+END
+x86_float4.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/110/seti_boinc/client/vector/x86_float4.h
+END
+asmlibm.lib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/seti_boinc/client/vector/asmlibm.lib
+END
+analyzeFuncs_altivec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/110/seti_boinc/client/vector/analyzeFuncs_altivec.cpp
+END
+hires_timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/311/seti_boinc/client/vector/hires_timer.cpp
+END
+asmlibe.a
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/client/vector/asmlibe.a
+END
+x86_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/client/vector/x86_ops.h
+END
+analyzeFuncs_fpu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/307/seti_boinc/client/vector/analyzeFuncs_fpu.cpp
+END
+analyzeFuncs_sse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/307/seti_boinc/client/vector/analyzeFuncs_sse.cpp
+END
+asmlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/client/vector/asmlib.h
+END
+hires_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/296/seti_boinc/client/vector/hires_timer.h
+END
+analyzeFuncs_x86_64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/110/seti_boinc/client/vector/analyzeFuncs_x86_64.cpp
+END
+analyzeFuncs_mmx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/110/seti_boinc/client/vector/analyzeFuncs_mmx.cpp
+END
+analyzeFuncs_vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/573/seti_boinc/client/vector/analyzeFuncs_vector.cpp
+END
+sighandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/110/seti_boinc/client/vector/sighandler.h
+END
+asmlib.zip
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/110/seti_boinc/client/vector/asmlib.zip
+END
+analyzeFuncs_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/110/seti_boinc/client/vector/analyzeFuncs_vector.h
+END

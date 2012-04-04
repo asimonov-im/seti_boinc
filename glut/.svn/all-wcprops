@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/110/seti_boinc/glut
+END
+win32_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/glut/win32_util.c
+END
+win32_x11.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/glut/win32_x11.h
+END
+Roman.stroke
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/glut/Roman.stroke
+END
+glut_stroke.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/glut/glut_stroke.c
+END
+glutwin32.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/glut/glutwin32.h
+END
+glut_roman.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/glut/glut_roman.c
+END
+glutstroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/glut/glutstroke.h
+END
+win32_glx.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/glut/win32_glx.c
+END
+stroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/110/seti_boinc/glut/stroke.h
+END
+glutbitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/glut/glutbitmap.h
+END
+glut.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/110/seti_boinc/glut/glut.h
+END
+win32_glx.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/glut/win32_glx.h
+END
+win32_x11.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/glut/win32_x11.c
+END
+glutint.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/110/seti_boinc/glut/glutint.h
+END
+glut_swidth.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/glut/glut_swidth.c
+END

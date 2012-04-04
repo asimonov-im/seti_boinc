@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/633/seti_boinc/m4
+END
+ax_check_glut.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/314/seti_boinc/m4/ax_check_glut.m4
+END
+ax_lang_compiler_ms.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/seti_boinc/m4/ax_lang_compiler_ms.m4
+END
+sah_make_dll.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/m4/sah_make_dll.m4
+END
+libtool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/110/seti_boinc/m4/libtool.m4
+END
+optimizations.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/314/seti_boinc/m4/optimizations.m4
+END
+ax_c_float_words_bigendian.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/110/seti_boinc/m4/ax_c_float_words_bigendian.m4
+END
+sah_raw_ldflags.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/m4/sah_raw_ldflags.m4
+END
+sah_header_stdcxx.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/m4/sah_header_stdcxx.m4
+END
+sah_check_ipp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/m4/sah_check_ipp.m4
+END
+sah_libext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/m4/sah_libext.m4
+END
+sah_staticize_ldflags.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/110/seti_boinc/m4/sah_staticize_ldflags.m4
+END
+sah_namespace.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/m4/sah_namespace.m4
+END
+ax_check_gl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/m4/ax_check_gl.m4
+END
+sah_requires.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/m4/sah_requires.m4
+END
+sah_grx.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/314/seti_boinc/m4/sah_grx.m4
+END
+sah_check_lib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/m4/sah_check_lib.m4
+END
+check_ssl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/110/seti_boinc/m4/check_ssl.m4
+END
+sah_mysql.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/110/seti_boinc/m4/sah_mysql.m4
+END
+sah_select_bitness.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/110/seti_boinc/m4/sah_select_bitness.m4
+END
+sah_asmlib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/315/seti_boinc/m4/sah_asmlib.m4
+END
+sah_check_jpeglib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/m4/sah_check_jpeglib.m4
+END
+sah_check_math_functions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/309/seti_boinc/m4/sah_check_math_functions.m4
+END
+sah_links.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/110/seti_boinc/m4/sah_links.m4
+END
+ax_check_glu.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/m4/ax_check_glu.m4
+END
+acx_pthread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/m4/acx_pthread.m4
+END
+sah_check_boinc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/311/seti_boinc/m4/sah_check_boinc.m4
+END
+sah_check_healpix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/633/seti_boinc/m4/sah_check_healpix.m4
+END
+sah_find_setilib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/363/seti_boinc/m4/sah_find_setilib.m4
+END
+sah_informix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/196/seti_boinc/m4/sah_informix.m4
+END
+sah_libsearch.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/m4/sah_libsearch.m4
+END
+libcurl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/110/seti_boinc/m4/libcurl.m4
+END
+boinc_platform.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/311/seti_boinc/m4/boinc_platform.m4
+END
+sah_largefile_breaks_cxx.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/110/seti_boinc/m4/sah_largefile_breaks_cxx.m4
+END
+sah_find_s4path.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/m4/sah_find_s4path.m4
+END

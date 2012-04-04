@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/110/seti_boinc/vector_lib
+END
+3dnow.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/vector_lib/3dnow.h
+END
+sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/vector_lib/sse.h
+END
+simd.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/vector_lib/simd.h
+END
+ps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/vector_lib/ps.cpp
+END
+generics.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/vector_lib/generics.h
+END
+t1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/vector_lib/t1.cpp
+END
+mmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/vector_lib/mmx.h
+END
+vis.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/vector_lib/vis.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/vector_lib/Makefile
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1091/seti_boinc/db/tools
+END
+rfi_zones_to_xml.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/687/seti_boinc/db/tools/rfi_zones_to_xml.pro
+END
+science_configs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/466/seti_boinc/db/tools/science_configs.xml
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1090/seti_boinc/db/tools/Makefile.in
+END
+spike_gaussian_rfi_zones.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1090/seti_boinc/db/tools/spike_gaussian_rfi_zones.xml
+END
+print_s4_receivers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1091/seti_boinc/db/tools/print_s4_receivers.cpp
+END
+analysis_configs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/633/seti_boinc/db/tools/analysis_configs.xml
+END
+s4_receivers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/seti_boinc/db/tools/s4_receivers.xml
+END
+settings.sql
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/633/seti_boinc/db/tools/settings.sql
+END
+insert_receiver_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1090/seti_boinc/db/tools/insert_receiver_config.cpp
+END
+insert_splitter_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1091/seti_boinc/db/tools/insert_splitter_config.cpp
+END
+triplet_rfi_zones.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1090/seti_boinc/db/tools/triplet_rfi_zones.xml
+END
+insert_stars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1091/seti_boinc/db/tools/insert_stars.cpp
+END
+insert_s4_receivers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1091/seti_boinc/db/tools/insert_s4_receivers.cpp
+END
+insert_rfi_zones.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1091/seti_boinc/db/tools/insert_rfi_zones.cpp
+END
+insert_science_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1091/seti_boinc/db/tools/insert_science_config.cpp
+END
+pulse_rfi_zones.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1090/seti_boinc/db/tools/pulse_rfi_zones.xml
+END
+recorder_configs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/110/seti_boinc/db/tools/recorder_configs.sql
+END
+splitter_configs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/234/seti_boinc/db/tools/splitter_configs.xml
+END
+insert_analysis_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1091/seti_boinc/db/tools/insert_analysis_config.cpp
+END

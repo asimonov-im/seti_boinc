@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1155/seti_boinc/validate
+END
+sah_result.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/validate/sah_result.h
+END
+sah_boinc_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/validate/sah_boinc_db.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/265/seti_boinc/validate/Makefile.in
+END
+sah_validate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1155/seti_boinc/validate/sah_validate.cpp
+END
+sah_result.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/826/seti_boinc/validate/sah_result.cpp
+END
+sah_boinc_db.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/826/seti_boinc/validate/sah_boinc_db.cpp
+END

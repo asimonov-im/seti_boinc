@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/384/seti_boinc/ops/bin
+END
+erase_data_drive
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/384/seti_boinc/ops/bin/erase_data_drive
+END
+count_hard_links.csh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/384/seti_boinc/ops/bin/count_hard_links.csh
+END
+seti_hsi.csh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/384/seti_boinc/ops/bin/seti_hsi.csh
+END
+xfer_to_hpss
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/384/seti_boinc/ops/bin/xfer_to_hpss
+END
+file_to_thumper
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/384/seti_boinc/ops/bin/file_to_thumper
+END
+make_xfer_script
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/384/seti_boinc/ops/bin/make_xfer_script
+END
+run_jan.csh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/384/seti_boinc/ops/bin/run_jan.csh
+END
+fill_xfer_to_hpss
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/384/seti_boinc/ops/bin/fill_xfer_to_hpss
+END
+count_wugs_wus_by_tape.csh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/384/seti_boinc/ops/bin/count_wugs_wus_by_tape.csh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/384/seti_boinc/ops/bin/README
+END
+avg_file_create_dir
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/384/seti_boinc/ops/bin/avg_file_create_dir
+END
+data_flow.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/384/seti_boinc/ops/bin/data_flow.cfg
+END
+make_hpss_script
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/384/seti_boinc/ops/bin/make_hpss_script
+END

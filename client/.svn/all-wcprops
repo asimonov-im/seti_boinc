@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/891/seti_boinc/client
+END
+Makefile.in.graphics
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/110/seti_boinc/client/Makefile.in.graphics
+END
+analyzeReport.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/307/seti_boinc/client/analyzeReport.h
+END
+graphics_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/378/seti_boinc/client/graphics_main.cpp
+END
+seti.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/563/seti_boinc/client/seti.cpp
+END
+s_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/110/seti_boinc/client/s_util.h
+END
+collect2_line_solaris.csh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/110/seti_boinc/client/collect2_line_solaris.csh
+END
+lcgamm.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/110/seti_boinc/client/lcgamm.h
+END
+chirpfft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/891/seti_boinc/client/chirpfft.cpp
+END
+malloc_a.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/412/seti_boinc/client/malloc_a.cpp
+END
+analyzeFuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/client/analyzeFuncs.h
+END
+better_banner.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/110/seti_boinc/client/better_banner.jpg
+END
+analyze.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/client/analyze.h
+END
+progress.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/client/progress.h
+END
+worker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/297/seti_boinc/client/worker.cpp
+END
+amd64fft8g.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/client/amd64fft8g.cpp
+END
+fft8g.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/client/fft8g.cpp
+END
+sah_gfx_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/307/seti_boinc/client/sah_gfx_base.h
+END
+sah_gfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/563/seti_boinc/client/sah_gfx.cpp
+END
+timecvt.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/client/timecvt.h
+END
+spike.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/110/seti_boinc/client/spike.h
+END
+seti_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/110/seti_boinc/client/seti_header.h
+END
+sah_gfx_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/266/seti_boinc/client/sah_gfx_main.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/563/seti_boinc/client/main.cpp
+END
+sah_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/110/seti_boinc/client/sah_version.h
+END
+gdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/266/seti_boinc/client/gdata.h
+END
+gaussfit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/458/seti_boinc/client/gaussfit.cpp
+END
+analyzePoT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/297/seti_boinc/client/analyzePoT.cpp
+END
+Makefile.Readme
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/client/Makefile.Readme
+END
+collect2_line_linux.csh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/110/seti_boinc/client/collect2_line_linux.csh
+END
+pulsefind.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/client/pulsefind.h
+END
+s_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/client/s_util.cpp
+END
+analyzeReport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/412/seti_boinc/client/analyzeReport.cpp
+END
+lcgamm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/client/lcgamm.cpp
+END
+win-sah_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/890/seti_boinc/client/win-sah_config.h
+END
+analyzeFuncs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/297/seti_boinc/client/analyzeFuncs.cpp
+END
+sincos.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/110/seti_boinc/client/sincos.h
+END
+progress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/client/progress.cpp
+END
+seti.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/417/seti_boinc/client/seti.h
+END
+sah_gfx_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/315/seti_boinc/client/sah_gfx_base.cpp
+END
+chirpfft.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/client/chirpfft.h
+END
+spike.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/315/seti_boinc/client/spike.cpp
+END
+timecvt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/563/seti_boinc/client/timecvt.cpp
+END
+malloc_a.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/client/malloc_a.h
+END
+seti_header.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/client/seti_header.cpp
+END
+worker.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/110/seti_boinc/client/worker.h
+END
+sah_version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/client/sah_version.cpp
+END
+gdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/client/gdata.cpp
+END
+fft8g.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/110/seti_boinc/client/fft8g.h
+END
+sah_gfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/client/sah_gfx.h
+END
+sah_gfx_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/307/seti_boinc/client/sah_gfx_main.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/633/seti_boinc/client/Makefile.am
+END
+pulsefind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/110/seti_boinc/client/pulsefind.cpp
+END
+gaussfit.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/client/gaussfit.h
+END
+analyzePoT.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/client/analyzePoT.h
+END
+app_icon.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/client/app_icon.h
+END

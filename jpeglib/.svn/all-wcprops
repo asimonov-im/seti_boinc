@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/110/seti_boinc/jpeglib
+END
+jdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdatadst.c
+END
+jchuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/jpeglib/jchuff.c
+END
+jdtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdtrans.c
+END
+jchuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/jpeglib/jchuff.h
+END
+jcparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jcparam.c
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jquant1.c
+END
+jcphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jcphuff.c
+END
+rdswitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/rdswitch.c
+END
+jccolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jccolor.c
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jmemmgr.c
+END
+jcmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jcmarker.c
+END
+jcsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jcsample.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdsample.c
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdmarker.c
+END
+jfdctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jfdctflt.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jmorecfg.h
+END
+rdcolmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/rdcolmap.c
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jinclude.h
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jidctflt.c
+END
+jctrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jctrans.c
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jpegint.h
+END
+rdrle.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/110/seti_boinc/jpeglib/rdrle.c
+END
+jcprepct.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jcprepct.c
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/jpeglib/jutils.c
+END
+jdinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdinput.c
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jpeglib.h
+END
+rdppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/110/seti_boinc/jpeglib/rdppm.c
+END
+rdtarga.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/rdtarga.c
+END
+jcmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jcmainct.c
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdmainct.c
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdpostct.c
+END
+jcapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jcapimin.c
+END
+jdapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdapimin.c
+END
+rdgif.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/110/seti_boinc/jpeglib/rdgif.c
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jmemsys.h
+END
+jcdctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jcdctmgr.c
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jddctmgr.c
+END
+cdjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/jpeglib/cdjpeg.h
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/jpeglib/jerror.c
+END
+rdbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/110/seti_boinc/jpeglib/rdbmp.c
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdhuff.c
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jfdctfst.c
+END
+jcmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jcmaster.c
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/jpeglib/jerror.h
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdmaster.c
+END
+jmemnobs.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jmemnobs.c
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jidctfst.c
+END
+jdhuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdhuff.h
+END
+jcinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/jpeglib/jcinit.c
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jquant2.c
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdct.h
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdatasrc.c
+END
+jcapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jcapistd.c
+END
+jdapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdapistd.c
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jversion.h
+END
+cderror.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/cderror.h
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jfdctint.c
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jidctint.c
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdmerge.c
+END
+jccoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jccoefct.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdcoefct.c
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jcomapi.c
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jconfig.h
+END
+jdphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdphuff.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/jpeglib/Makefile.am
+END
+jidctred.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/jpeglib/jidctred.c
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/jpeglib/jdcolor.c
+END

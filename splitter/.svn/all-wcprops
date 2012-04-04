@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1283/seti_boinc/splitter
+END
+dotransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/110/seti_boinc/splitter/dotransform.cpp
+END
+cmap_interp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/110/seti_boinc/splitter/cmap_interp.cpp
+END
+encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/splitter/encode.h
+END
+writeheader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/110/seti_boinc/splitter/writeheader.cpp
+END
+mb_splittypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/110/seti_boinc/splitter/mb_splittypes.h
+END
+splitparms.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/splitter/splitparms.h
+END
+hr_min_sec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/splitter/hr_min_sec.cpp
+END
+mb_validrun.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1274/seti_boinc/splitter/mb_validrun.h
+END
+polyphase.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/110/seti_boinc/splitter/polyphase.h
+END
+fftw.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/110/seti_boinc/splitter/fftw.h
+END
+splitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/splitter/splitter.h
+END
+mb_angdist.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/splitter/mb_angdist.h
+END
+wufiles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/563/seti_boinc/splitter/wufiles.cpp
+END
+mb_dotransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/seti_boinc/splitter/mb_dotransform.h
+END
+mb_polyphase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/seti_boinc/splitter/mb_polyphase.cpp
+END
+coordcvt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/splitter/coordcvt.cpp
+END
+squarewave.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/splitter/squarewave.cpp
+END
+readheader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/splitter/readheader.cpp
+END
+mb_splitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1274/seti_boinc/splitter/mb_splitter.cpp
+END
+readtape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/563/seti_boinc/splitter/readtape.cpp
+END
+splittypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/splitter/splittypes.h
+END
+validrun.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/splitter/validrun.h
+END
+message.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/splitter/message.h
+END
+libfftw.a
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/splitter/libfftw.a
+END
+encode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/splitter/encode.cpp
+END
+angdist.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/splitter/angdist.h
+END
+db_fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/seti_boinc/splitter/db_fns.h
+END
+mb_wufiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/splitter/mb_wufiles.h
+END
+four1.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/110/seti_boinc/splitter/four1.h
+END
+makebufs.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/splitter/makebufs.h
+END
+mb_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/splitter/mb_message.cpp
+END
+mb_validrun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1283/seti_boinc/splitter/mb_validrun.cpp
+END
+dotransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/splitter/dotransform.h
+END
+polyphase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/splitter/polyphase.cpp
+END
+splitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/splitter/splitter.cpp
+END
+cmap_interp.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/splitter/cmap_interp.h
+END
+mb_angdist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/splitter/mb_angdist.cpp
+END
+writeheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/110/seti_boinc/splitter/writeheader.h
+END
+randomdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/110/seti_boinc/splitter/randomdata.cpp
+END
+hr_min_sec.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/splitter/hr_min_sec.h
+END
+mb_dotransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/110/seti_boinc/splitter/mb_dotransform.cpp
+END
+wufiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/splitter/wufiles.h
+END
+uttolst.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/splitter/uttolst.h
+END
+validrun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1165/seti_boinc/splitter/validrun.cpp
+END
+message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/110/seti_boinc/splitter/message.cpp
+END
+coordcvt.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/splitter/coordcvt.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/575/seti_boinc/splitter/Makefile.am
+END
+readheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/splitter/readheader.h
+END
+angdist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/110/seti_boinc/splitter/angdist.cpp
+END
+mb_splitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/114/seti_boinc/splitter/mb_splitter.h
+END
+readtape.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/splitter/readtape.h
+END
+db_fns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/seti_boinc/splitter/db_fns.cpp
+END
+four1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/seti_boinc/splitter/four1.cpp
+END
+mb_wufiles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/848/seti_boinc/splitter/mb_wufiles.cpp
+END
+makebufs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/110/seti_boinc/splitter/makebufs.cpp
+END

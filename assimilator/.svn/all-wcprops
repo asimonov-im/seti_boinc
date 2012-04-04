@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1009/seti_boinc/assimilator
+END
+sah_assimilate_handler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1009/seti_boinc/assimilator/sah_assimilate_handler.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/569/seti_boinc/assimilator/Makefile.am
+END
+sah_assimilate_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/370/seti_boinc/assimilator/sah_assimilate_handler.h
+END
