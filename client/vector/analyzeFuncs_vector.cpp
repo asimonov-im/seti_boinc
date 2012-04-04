@@ -92,7 +92,7 @@
 #elif defined(HAVE__ISNAN)
 #define isnotnan(x) (!_isnan(x))
 #elif defined(HAVE_ISNAN)
-#define isnotnam(x) (!isnan(x))
+#define isnotnan(x) (!isnan(x))
 #else
 #define isnotnan(x) ((x) == (x))
 #endif
